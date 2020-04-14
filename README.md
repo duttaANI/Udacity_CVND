@@ -2,4 +2,4 @@
 
 ## * List of Projects 
 
-### Facial Keypoints Detection
+### *Facial Keypoints Detection
