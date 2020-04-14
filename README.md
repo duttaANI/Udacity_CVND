@@ -2,14 +2,13 @@
 
 This repository contains projects completed throughout this course
 
-## * List of Projects 
+##  List of Projects 
 
-### 1. Facial Keypoints Detection
+###1. Facial Keypoints Detection
 
-### 1. Graph SLAM
+###1. Graph SLAM
 
-### 1. Image Captioning 
-
+###1. Image Captioning 
 
 
 
