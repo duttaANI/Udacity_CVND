@@ -31,3 +31,5 @@ __Notebook 4__ : Fun Filters and Keypoint Uses
     1. 3462 of these images are training images, for you to use as you create a model to predict keypoints.
     1. 2308 are test images, which will be used to test the accuracy of your model.
 
+### Dependencies
+Pytorch 0.4
