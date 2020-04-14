@@ -24,4 +24,10 @@ __Notebook 4__ : Fun Filters and Keypoint Uses
 
 ### Data
 
-This set of image data has been extracted from the YouTube Faces Dataset, which includes videos of people in YouTube videos. These videos have been fed through some processing steps and turned into sets of image frames containing one face and the associated keypoints.
+1. This set of image data has been extracted from the YouTube Faces Dataset, which includes videos of people in YouTube videos. These videos have been fed through some processing steps and turned into sets of image frames containing one face and the associated keypoints.
+
+1. This facial keypoints dataset consists of 5770 color images. All of these images are separated into either a training or a test set of data.
+
+    1. 3462 of these images are training images, for you to use as you create a model to predict keypoints.
+    1. 2308 are test images, which will be used to test the accuracy of your model.
+
