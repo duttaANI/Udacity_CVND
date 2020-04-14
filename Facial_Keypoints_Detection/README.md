@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-In this project, we will try to locate 64 unique facial points on different images.
+In this project, we will try to locate 68 unique facial points on different images .
 
 ![Facial Keypoint Detection][image1]
 
