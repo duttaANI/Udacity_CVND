@@ -10,7 +10,7 @@ In this project, we will try to locate 64 unique facial points on different imag
 
 ![Facial Keypoint Detection][image1]
 
-The project consists of four Python notebooks, **only Notebooks 2 and 3 (and the `models.py` file) will be graded**:
+The project consists of four Python notebooks:
 
 __Notebook 1__ : Loading and Visualizing the Facial Keypoint Data
 
