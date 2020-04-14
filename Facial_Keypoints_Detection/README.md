@@ -33,3 +33,6 @@ __Notebook 4__ : Fun Filters and Keypoint Uses
 
 ### Dependencies
 `Pytorch 0.4`
+
+### Reference
+[1] Facial Key Points Detection using DeepConvolutional Neural Network - NaimishNet (https://arxiv.org/pdf/1710.00977.pdf)
