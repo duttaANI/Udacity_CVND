@@ -32,4 +32,4 @@ __Notebook 4__ : Fun Filters and Keypoint Uses
     1. 2308 are test images, which will be used to test the accuracy of your model.
 
 ### Dependencies
-Pytorch 0.4
+`Pytorch 0.4`
