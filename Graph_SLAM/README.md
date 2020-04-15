@@ -33,12 +33,12 @@ __Notebook 3__ : Landmark Detection and Tracking
 1. The coefficient of every component(i.e. x,y) of each pose should be positive along the diagonal of omega matrix.
 
 <p align="center">
-  <img src="./images/omega_xi_constraints.png" width=30% height=30% />
+  <img src="./images/omega_xi_constraints.png" width=50% height=50% />
 </p>
 
-1. Another important point to note is that input weights are directly proportional to the confidence in senor data.
+4. Another important point to note is that input weights are directly proportional to the confidence in senor data.
 
-1. Finally to generate map and localice robot perform the opertion:
+5. Finally to generate map and localice robot perform the opertion:
     
 <p align="center">
   <img src="./images/solution.png" width=30% height=30% />
