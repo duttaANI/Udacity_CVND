@@ -19,3 +19,7 @@ __Notebook 2__ : Omega and Xi, Constraints
 __Notebook 3__ : Landmark Detection and Tracking 
 
 ## APPROACH
+
+<p align="center">
+  <img src="./images/Graph_slam_constraints.png" width=50% height=50% />
+</p>
