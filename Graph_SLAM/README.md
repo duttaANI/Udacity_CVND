@@ -26,14 +26,14 @@ __Notebook 3__ : Landmark Detection and Tracking
 
 1. There are two types of senor data a robot collects:
     1. motion (final robot pose - initial robot pose)
-    1. measurement (landmark pose - current pose) 
+    1. measurement (landmark pose - current pose) _The landmarks which are in range of sensor_
     
 1. This data is used as input to constraint matrices(omega and xi) and is additive in nature during input.
 
 1. The coefficient of every component(i.e. x,y) of each pose should be positive along the diagonal of omega matrix.
 
 <p align="center">
-  <img src="./images/omega_xi_constraints.png" width=50% height=50% />
+  <img src="./images/omega_xi_constraints.png" width=60% height=60% />
 </p>
 
 4. Another important point to note is that input weights are directly proportional to the confidence in senor data.
