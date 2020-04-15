@@ -21,7 +21,7 @@ __Notebook 3__ : Landmark Detection and Tracking
 ## APPROACH
 
 <p align="center">
-  <img src="./images/Graph_slam_constraints.png" width=75% height=75% />
+  <img src="./images/Graph_SLAM_constraints2.png" width=75% height=75% />
 </p>
 
 1. There are two types of senor data a robot collects:
