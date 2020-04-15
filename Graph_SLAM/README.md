@@ -32,7 +32,7 @@ __Notebook 3__ : Landmark Detection and Tracking
 
 1. The coefficient of every component(i.e. x,y) of each pose should be positive along the diagonal of omega matrix.
 
-* THe below image is for x component and motion data*
+*THe below image is for x component and motion data*
 
 <p align="center">
   <img src="./images/omega_xi_constraints.png" width=70% height=70% />
