@@ -21,5 +21,5 @@ __Notebook 3__ : Landmark Detection and Tracking
 ## APPROACH
 
 <p align="center">
-  <img src="./images/Graph_slam_constraints.png" width=50% height=50% />
+  <img src="./images/Graph_slam_constraints.png" width=75% height=75% />
 </p>
