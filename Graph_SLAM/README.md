@@ -50,3 +50,5 @@ __Notebook 3__ : Landmark Detection and Tracking
 
 6. Here mu is the matrix containing best possible predictions for robot poses and landmarks.
 
+### Reference
+[1] The GraphSLAMAlgorithm withApplications toLarge-Scale Mappingof Urban Structures - Sebastian Thrun (http://robots.stanford.edu/papers/thrun.graphslam.pdf)
