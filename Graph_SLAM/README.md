@@ -41,7 +41,8 @@ __Notebook 3__ : Landmark Detection and Tracking
 4. Another important point to note is that input weights are directly proportional to the confidence in senor data.
 
 5. Finally to generate map and localice robot perform the opertion:
-    mu = (omega inverse)*xi (matrix multiplication)
+    
+    # mu = (omega inverse)*xi (matrix multiplication)
     
 <p align="center">
   <img src="./images/solution.png" width=30% height=30% />
