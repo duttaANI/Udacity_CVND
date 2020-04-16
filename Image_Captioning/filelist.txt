@@ -1,0 +1,13 @@
+ 	0_Dataset.ipynb
+  1_Preliminaries.ipynb
+  2_Training.ipynb
+  3_Inference.ipynb
+  captions_val2014_realcap_results.json
+  data_loader.py
+  data_loader_val.py
+  data_loader_val2.py
+  model.py
+  training_log.txt
+  vocabulary.py
+  requirements.txt
+  
