@@ -16,11 +16,18 @@ _In this project we will try to perform image captioning on [Microsoft COCO data
 </p>
 
 1. CNN = pretrained ResNet50
-1. RNN = single layer LSTM 
+2. linear layer 
+3. RNN = single layer LSTM 
+4. linear layer
+
+#### model parameters
+1. embedding size     : 512
+2. LSTM hidden size   : 512
+3. batch size         : 64
 
 ## Performance
 
-This model is trained for 3 epochs and its average crossentropy loss is 2.1
+This model is trained for 3 epochs(6 hours) and its average crossentropy loss is 2.1
 
 The BLEU 1 score (calculated on a batch of 64 images) is : 0.577
 
