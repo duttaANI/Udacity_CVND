@@ -31,6 +31,12 @@ This model is trained for 3 epochs(6 hours) and its average crossentropy loss is
 
 The BLEU 1 score (calculated on a batch of 64 images) is : 0.577
 
+## This project consists of following notebooks
+1. 0_Dataset.ipynb : to explore images and their captions
+2. 1_Preliminaries.ipynb : to generate vocabulary dict and convert captions to tensors
+3. 2_Training.ipynb : to train and validate the model
+4. 3_Inference.ipynb : to analyze our results/predictions
+
 ## Pretrained Weights for model
 If you do not want to train the model from scratch, you can use a pretrained model. You can download the pretrained model [here](https://www.dropbox.com/sh/wu5gz3sq5nz2d6p/AAA-UWz3ed51Gv9npRGG3VWha?dl=0).The encoder-3.pkl and decoder3.pkl should be present inside `models` folder .
 
