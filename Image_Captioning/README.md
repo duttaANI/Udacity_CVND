@@ -5,9 +5,9 @@ _In this project we will try to perform image captioning on [Microsoft COCO data
 
 ## APPROACH
 
-1. We will use pretrained CNN as an encoder which will extract feature vectors
+1. We will use pretrained CNN as an encoder which will extract feature vectors.
 
-2. Feature vectors will then be passes to an LSTM layer which will act as a decoder to output image captions
+2. Feature vectors will then be passed on to an LSTM layer which will act as a decoder to output image captions.
 
 ## ARCHITECHTURE
 
