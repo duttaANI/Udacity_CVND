@@ -18,6 +18,12 @@ _In this project we will try to perform image captioning on [Microsoft COCO data
 1. CNN = pretrained ResNet50
 1. RNN = single layer LSTM 
 
+## Performance
+
+This model is trained for 3 epochs and its average crossentropy loss is 2.1
+
+The BLEU 1 score (calculated on a batch of 64 images) is : 0.577
+
 ## Pretrained Weights for model
 If you do not want to train the model from scratch, you can use a pretrained model. You can download the pretrained model [here](https://www.dropbox.com/sh/wu5gz3sq5nz2d6p/AAA-UWz3ed51Gv9npRGG3VWha?dl=0).The encoder-3.pkl and decoder3.pkl should be present inside `models` folder .
 
