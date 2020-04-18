@@ -10,6 +10,8 @@ This repository contains projects completed throughout this course
 
 ### 3. Image Captioning 
 
+### 4. 1D Kalman Filter
+
 
 
 
