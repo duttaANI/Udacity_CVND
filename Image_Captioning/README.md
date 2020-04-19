@@ -39,8 +39,8 @@ The BLEU 1 score (calculated on a batch of 64 images) is : 0.577
 
 ## Sample Results
 
-<p align="left">
-  <img src="images/result1.png">
+<p align="left">   
+  <img src="./images/result1.png" width=75% height=75% />
 </p>
 
 <p align="center">
