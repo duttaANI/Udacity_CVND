@@ -35,21 +35,7 @@ __Notebook 4__ : Fun Filters and Keypoint Uses
     
 ### Architechture
 
-Net(
-  (conv1): Conv2d(1, 32, kernel_size=(5, 5), stride=(1, 1))
-  (pool): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
-  (conv2): Conv2d(32, 64, kernel_size=(3, 3), stride=(1, 1))
-  (conv3): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1))
-  (conv4): Conv2d(128, 256, kernel_size=(3, 3), stride=(1, 1))
-  (drop1): Dropout(p=0.1)
-  (drop2): Dropout(p=0.2)
-  (drop3): Dropout(p=0.3)
-  (drop4): Dropout(p=0.4)
-  (drop5): Dropout(p=0.5)
-  (fc1): Linear(in_features=36864, out_features=1024, bias=True)
-  (fc2): Linear(in_features=1024, out_features=512, bias=True)
-  (fc3): Linear(in_features=512, out_features=136, bias=True)
-)
+
 
 | Layer               	| Details                                                                                          	|
 |---------------------	|--------------------------------------------------------------------------------------------------	|
