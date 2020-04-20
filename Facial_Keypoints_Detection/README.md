@@ -69,7 +69,7 @@ Net(
 | Dropout             | probability : 0.5                   |
 | Fully Connected 2   | # neurons : 512; activation : RELU   |
 | Dropout             | probability : 0.5                   |
-| probability : 0.6   | # neurons : 136; activation : None |
+| Output   | # neurons : 136; activation : None |
 | Output              | size : (136 x 1)                    |
 
 ### Dependencies
