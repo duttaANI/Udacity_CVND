@@ -34,12 +34,12 @@ __Notebook 3__ : Landmark Detection and Tracking
   <img src="./images/constraints2D.png" width=70% height=70% />
 </p>
 
-1. The coefficient of every component(i.e. x,y) of each pose should be positive along the diagonal of omega matrix.
+3. The coefficient of every component(i.e. x,y) of each pose should be positive along the diagonal of omega matrix.
 
 *THe below image is for x component and motion data*
 
 <p align="center">
-  <img src="./images/omega_xi_constraints.png" width=70% height=70% />
+  <img src="./images/omega_xi_constraints.png" width=80% height=80% />
 </p>
 
 4. Another important point to note is that input weights are directly proportional to the confidence in senor data.
@@ -49,7 +49,7 @@ __Notebook 3__ : Landmark Detection and Tracking
     #### mu = (omega inverse)*xi   [ matrix multiplication ]
     
 <p align="center">
-  <img src="./images/solution.png" width=30% height=30% />
+  <img src="./images/solution.png" width=50% height=50% />
 </p>
 
 6. Here mu is the matrix containing best possible predictions for robot poses and landmarks.
