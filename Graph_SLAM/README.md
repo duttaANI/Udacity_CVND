@@ -30,6 +30,10 @@ __Notebook 3__ : Landmark Detection and Tracking
     
 1. This data is used as input to constraint matrices(omega and xi) and is additive in nature during input.
 
+<p align="center">
+  <img src="./images/constraints2D.png" width=75% height=75% />
+</p>
+
 1. The coefficient of every component(i.e. x,y) of each pose should be positive along the diagonal of omega matrix.
 
 *THe below image is for x component and motion data*
